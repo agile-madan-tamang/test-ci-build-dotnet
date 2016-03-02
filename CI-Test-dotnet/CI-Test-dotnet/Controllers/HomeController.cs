@@ -15,7 +15,7 @@ namespace CI_Test_dotnet.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Welcome to Continuous Integration (CI) test.";
+            ViewBag.Message = "Welcome to Continuous Integration (CI) test for team city";
 
             return View();
         }
